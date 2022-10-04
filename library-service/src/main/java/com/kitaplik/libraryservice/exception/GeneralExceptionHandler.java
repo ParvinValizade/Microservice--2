@@ -12,4 +12,9 @@ public class GeneralExceptionHandler {
     public ResponseEntity<?> handle(LibraryNotFoundException e){
         return new ResponseEntity<>(e.getMessage(), HttpStatus.NOT_FOUND);
     }
+
+    @ExceptionHandler(BookNotFoundException.class)
+    public ResponseEntity<?> bookNotFoundException(BookNotFoundException e){
+        return new ResponseEntity<>(e.getMessage(),HttpStatus.NOT_FOUND);
+    }
 }

@@ -3,7 +3,7 @@ package com.kitaplik.bookservice.dto
 import com.kitaplik.bookservice.model.Book
 
 data class BookDto @JvmOverloads constructor(
-    val id:BookIdDto? = null,
+    val bookId:BookIdDto? = null,
     val title: String,
     val bookYear: Int,
     val author: String,
