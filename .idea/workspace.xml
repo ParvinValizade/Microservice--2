@@ -5,22 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1f56591-6ec6-4c8b-8407-2309d124294d" name="Changes" comment="Gateway">
-      <change afterPath="$PROJECT_DIR$/gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/kitaplik/gateway/GatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9aa08dc0b8cf198cd7c0d8c2aa51d1932e62527" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/book-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-service/src/main/java/com/kitaplik/bookservice/repository/BookRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/book-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/com/kitaplik/gateway/GatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/kitaplik/gateway/GatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/client/BookServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/client/BookServiceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/LibraryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/LibraryServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/controller/LibraryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/controller/LibraryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/service/LibraryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/service/LibraryService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +50,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/ubuntu/Workspace/KitaplikOnline/Microservice--2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "dcc6d483e96576a2fb45cddd3f4caaff",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MavenRunConfiguration" />
+      </set>
+    </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.GatewayApplication">
+  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="kitaplikonline" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="kitaplikonline" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BookServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="book-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.kitaplik.bookservice.BookServiceApplication" />
@@ -69,15 +99,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kitaplik.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kitaplik.eurekaserver.EurekaServerApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kitaplik.eurekaserver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kitaplik.eurekaserver.EurekaServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,13 +128,13 @@
     </configuration>
     <configuration name="LibraryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="library-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kitaplik.libraryservice.LibraryServiceApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kitaplik.libraryservice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kitaplik.libraryservice.LibraryServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,6 +158,10 @@
       <workItem from="1666412241294" duration="558000" />
       <workItem from="1666412811516" duration="16717000" />
       <workItem from="1666606777090" duration="1345000" />
+      <workItem from="1671703879894" duration="2032000" />
+      <workItem from="1672291826487" duration="1918000" />
+      <workItem from="1672834897409" duration="1755000" />
+      <workItem from="1672904826442" duration="5377000" />
     </task>
     <servers />
   </component>
