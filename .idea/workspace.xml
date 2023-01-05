@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1f56591-6ec6-4c8b-8407-2309d124294d" name="Changes" comment="Gateway">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="b1f56591-6ec6-4c8b-8407-2309d124294d" name="Changes" comment="config properties">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/com/kitaplik/gateway/GatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/kitaplik/gateway/GatewayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/LibraryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/LibraryServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/controller/LibraryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/controller/LibraryController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +49,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/ubuntu/Workspace/KitaplikOnline/Microservice--2",
     "node.js.detected.package.eslint": "true",
@@ -71,6 +63,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -78,7 +73,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
+  <component name="RunManager" selected="Spring Boot.LibraryServiceApplication">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="kitaplikonline" />
       <method v="2">
@@ -141,8 +136,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Spring Boot.LibraryServiceApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -161,8 +156,16 @@
       <workItem from="1671703879894" duration="2032000" />
       <workItem from="1672291826487" duration="1918000" />
       <workItem from="1672834897409" duration="1755000" />
-      <workItem from="1672904826442" duration="5377000" />
+      <workItem from="1672904826442" duration="8470000" />
     </task>
+    <task id="LOCAL-00001" summary="config properties">
+      <created>1672916626076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672916626076</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +184,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Gateway" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gateway" />
+    <MESSAGE value="config properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="config properties" />
   </component>
 </project>
