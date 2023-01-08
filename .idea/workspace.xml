@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1f56591-6ec6-4c8b-8407-2309d124294d" name="Changes" comment="config properties">
+    <list default="true" id="b1f56591-6ec6-4c8b-8407-2309d124294d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/controller/LibraryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/src/main/java/com/kitaplik/libraryservice/controller/LibraryController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/library-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/ubuntu/Workspace/KitaplikOnline/Microservice--2",
+    "last_opened_file_path": "/home/ubuntu/Workspace/currency-exchange-system-cbar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,7 +65,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "dcc6d483e96576a2fb45cddd3f4caaff",
+    "spring.configuration.checksum": "9a0f43665ee907708069ae5a35bb17d0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -156,7 +162,8 @@
       <workItem from="1671703879894" duration="2032000" />
       <workItem from="1672291826487" duration="1918000" />
       <workItem from="1672834897409" duration="1755000" />
-      <workItem from="1672904826442" duration="8470000" />
+      <workItem from="1672904826442" duration="9164000" />
+      <workItem from="1672981915536" duration="9540000" />
     </task>
     <task id="LOCAL-00001" summary="config properties">
       <created>1672916626076</created>
@@ -165,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672916626076</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="config-service">
+      <created>1672920293108</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672920293108</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +199,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Gateway" />
     <MESSAGE value="config properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="config properties" />
+    <MESSAGE value="config-service" />
+    <option name="LAST_COMMIT_MESSAGE" value="config-service" />
   </component>
 </project>
